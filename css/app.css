@@ -1,0 +1,21 @@
+/* body {
+  margin: 200;
+} */
+ /* #container {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 1px;
+  width: 800px;
+  height: 800px;
+  background-color: #fff;
+}  */
+
+#container {
+      padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    float: right;
+    margin: 0 0 10px 10px;
+}
