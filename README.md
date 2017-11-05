@@ -19,7 +19,7 @@ You can navigate in maps to see other donors.
 
 Live demo: https://easydonor.herokuapp.com/
 
-<img src="images/screen.jpg" width="600">
+<img src="images/screen.JPG" width="600">
 
 * [Technical Stack](#technical-stack)
 * [Architecture](#architecture)
