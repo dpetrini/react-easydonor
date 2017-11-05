@@ -29,7 +29,7 @@ Live demo: https://easydonor.herokuapp.com/
 * [Missing Features](#missing-features)
 
 ## Technical Stack
-* Language - JavaScript/ES6/ES7/Babel. React components are written on ES6/ES7 using Babel transpiler.
+* Language - JavaScript/ES6/ES7/Babel. React components are written on ES6/ES7 using Browserify, Babel transpiler.
 * Socket.io - realtime updates
 * Back-end - Node.js/Express.js, Mongojs/MongoDB (repository dpetrini/easydonor)
 * Front-end -  React/React Router/ ArgCIS react component / ARGCIS maps
@@ -71,7 +71,7 @@ Express server for this app: https://github.com/dpetrini/easydonor.
 Using npm:
 ```
 $ npm install
-$ npm start
+$ grunt watch
 ```
 
 Open in your browser
