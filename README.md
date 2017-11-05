@@ -60,7 +60,7 @@ The main features are:
 
 ```
 Jest tests of main components:
-npm test
+npm jest
 ```
 
 ## How to Run
